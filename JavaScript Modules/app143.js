@@ -1,10 +1,10 @@
 // Foursquare API Info
-const clientId = 'JRSG1OPQXFOZ40RMY3NTEU0TS0W5FJYI5C0WAJ0VZ3IEGTH4';
-const clientSecret = 'GNOUNRNL2B1XJXFZYQOYCLWI0ZN3GWYLJUWKXG1GAZWO3N2C';
+const clientId = '';
+const clientSecret = '';
 const url = 'https://api.foursquare.com/v2/venues/explore?near=';
 
 // APIXU Info
-const apiKey = 'cb8052a6e73f42e4a7851113180810';
+const apiKey = '';
 const forecastUrl = 'https://api.apixu.com/v1/current.json?key=';
 
 // Page Elements
